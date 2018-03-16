@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dublin Bikes Stations</string>
+    <string name="map">Location On Map</string>
+    <string name="list_bike">Bikes Location List</string>
+    <string name="home">Home</string>
+
+
+    <string name="map_server_key">AIzaSyA0QTVAuEA0jl1MMMV59GUQ4RAwBQNRjfs</string>
+    <string name="bike_station">Bike Station</string>
+
+</resources>
